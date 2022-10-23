@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
       <Text>Home Screen</Text>
-      <Link href="/teste">Go to Details</Link>
+      <Link href="/details">Go to Details</Link>
     </View>
   );
 }
